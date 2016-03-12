@@ -1,0 +1,12 @@
+#Eclipse files
+RemoteSystemsTempFiles
+**/.metadata
+**/.project
+**/.classpath
+**/.settings
+
+#Compiled files
+**/*.class
+
+#Compressed files 
+**/*.zip
