@@ -4,6 +4,7 @@ RemoteSystemsTempFiles
 **/.project
 **/.classpath
 **/.settings
+**/.gitignore
 
 #Compiled files
 **/*.class
